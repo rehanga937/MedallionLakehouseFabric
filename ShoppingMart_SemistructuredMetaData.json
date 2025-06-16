@@ -1,0 +1,17 @@
+[
+    {
+        "source_url" : "ShoppingMart_SemistructuredData/reviews.json",
+        "sink_folder" : "ShoppingMart_Bronze_SemiStructuredData",
+        "sink_file" : "ShoppingMart_review.json"
+    },
+    {
+         "source_url" : "ShoppingMart_SemistructuredData/social_media.json",
+        "sink_folder" : "ShoppingMart_Bronze_SemiStructuredData",
+        "sink_file" : "ShoppingMart_social_media.json"
+    },
+    {
+        "source_url" : "ShoppingMart_SemistructuredData/web_logs.json",
+        "sink_folder" : "ShoppingMart_Bronze_SemiStructuredData",
+        "sink_file" : "ShoppingMart_web_logs.json"
+    }
+]
